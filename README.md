@@ -1,0 +1,6 @@
+- 👋 Hi, I am Amir, a Data Scientist at NAVADA, specializing in machine learning (ML) and natural language processing (NLP) for industrial data analysis. My work focuses on developing end-to-end ML pipelines, from data cleaning and augmentation to model development, hyperparameter tuning, and deployment. I build and deploy models in production environments using Flask, on-premise servers, and dedicated GPUs, ensuring scalability and efficiency.
+
+At NAVADA, I lead efforts in Takeoff analysis and Named Entity Recognition (NER) to categorize mechanical, electrical, ventilation, and plumbing parts with high accuracy. A core component of this work is a BERT-based sequence classification model that enhances Takeoff big data analysis, leveraging synthetic data augmentation with GPT-2 to improve classification robustness. Additionally, I have developed a BERT-based model to match NAVADA and Supplier descriptions, calculating similarity percentages to optimize material alignment and procurement processes.
+
+By integrating cutting-edge NLP techniques with domain-specific ML solutions, I drive innovation in technical description processing and takeoff estimation, helping NAVADA enhance efficiency in inventory management, procurement, and supply chain optimization.
+
